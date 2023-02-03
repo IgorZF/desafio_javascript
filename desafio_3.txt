@@ -1,0 +1,1 @@
+O erro do algoritmo esta presente no loop while, causando um loop infinito devido ao fato de que a variável num nunca será maior que 10.
